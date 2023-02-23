@@ -4,7 +4,7 @@
 sudo pacman -S yay
 
 # things i need for web dev
-sudo pacman -S nodejs npm neovim && yay -S visual-studio-code-bin google-chrome 
+sudo pacman -S nodejs npm neovim discord && yay -S visual-studio-code-bin google-chrome amdgpu-pro-oglp
 sudo npm i -g yarn pnpm
 
 echo "Do you want to install other apps?"
