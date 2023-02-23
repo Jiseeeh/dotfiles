@@ -15,7 +15,7 @@ read answer
 if [ "$answer" = "y" ]
 then
     # others
-    sudo pacman -S gnome-boxes && yay -S logseq-desktop-bin 
+    sudo pacman -S flameshot gnome-boxes && yay -S logseq-desktop-bin 
 else 
     echo "Done!"
 fi
