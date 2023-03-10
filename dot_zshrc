@@ -115,6 +115,7 @@ alias lseq="nohup progl logseq &"
 alias intellij="nohup progl idea &"
 alias chrome="nohup progl google-chrome-stable &"
 alias gb="nohup progl gnome-boxes &"
+alias record="nohup progl simplescreenrecorder &"
 
 export PATH=$PATH:/home/maw/.local/share/gem/ruby/3.0.0/bin
 export GTK_IM_MODULE='fcitx'
