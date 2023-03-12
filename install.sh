@@ -15,7 +15,7 @@ read answer
 if [ "$answer" = "y" ]
 then
     # others
-    sudo pacman -S flameshot gnome-boxes simplescreenrecorder && yay -S logseq-desktop-bin premid
+    sudo pacman -S flameshot gnome-boxes onefetch simplescreenrecorder && yay -S logseq-desktop-bin premid
     
     # clone notes
     git clone git@github.com:Jiseeeh/my-logseq-notes.git
